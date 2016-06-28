@@ -1,2 +1,3 @@
-# hello-world
-My First projects learning GIT
+# EFM32MiniProjects
+Sprint1:
+- Adding required libraries
