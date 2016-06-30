@@ -5,4 +5,5 @@ Sprint1:
 - integrating git to local, and pushing a sample code
 - Adding required libraries
 - Creating setup
+- Testing changes
 -
